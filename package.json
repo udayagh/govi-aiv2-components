@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/udayagh/npm_project.git"
+    "url": "https://github.com/udayagh/govi-aiv2-components.git"
   },
   "keywords": [
     "npm",
@@ -48,7 +48,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/udayagh/npm_project/issues"
+    "url": "https://github.com/udayagh/govi-aiv2-components/issues"
   },
-  "homepage": "https://github.com/udayagh/npm_project#readme"
+  "homepage": "https://github.com/udayagh/govi-aiv2-components#readme"
 }
