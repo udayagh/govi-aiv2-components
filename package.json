@@ -1,6 +1,6 @@
 {
   "name": "@udayagh/govi-aiv2-components",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -34,21 +34,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/udayagh/npm_project.git"
-  },
-  "keywords": [
-    "npm",
-    "publish",
-    "package",
-    "registry"
-  ],
-  "author": {
-    "name": "Udaya Bandara",
-    "email": "udaya.awub@gmail.com"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/udayagh/npm_project/issues"
-  },
-  "homepage": "https://github.com/udayagh/npm_project#readme"
+    "url": "https://github.com/udayagh/govi-aiv2-components.git"
+  }
 }
